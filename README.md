@@ -150,6 +150,9 @@ Uses placeholder images from via.placeholder.com.
 
 🚀 Future Improvements (Ideas)
 Dark mode toggle (CSS‑only).
+
+Live demo
+amazoneclone-488d8ilmx-salmankhan8822s-projects.vercel.app
 Product detail page mockup.
 Checkout flow mockup.
 Search suggestions (simulated with CSS).
